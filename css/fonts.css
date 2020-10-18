@@ -1,0 +1,21 @@
+@font-face{
+    font-family: 'MM';
+    src: url(../fonts/Montserrat-Medium.ttf);
+}
+@font-face{
+    font-family: 'MT';
+    src: url(../fonts/Montserrat-Thin.ttf);
+}
+@font-face{
+    font-family: 'MPR';
+    src: url(../fonts/MyriadPro-Regular.ttf);
+}
+@font-face{
+    font-family: 'NSR';
+    src: url(../fonts/NunitoSans-Regular.ttf);
+    
+}
+@font-face{
+    font-family: 'RM';
+    src: url(../fonts/Roboto-Medium.ttf);
+}
